@@ -1,5 +1,11 @@
 {
-        "SekovVps" : {
+        "SekosVPS" : {
         " mensaje " : " ! ip 185.230.55.192"
     },
-      
+                "  " : {
+        " mensaje " : " ! ip "
+    },
+                      "  " : {
+        " mensaje " : " ! ip "
+    },
+}
